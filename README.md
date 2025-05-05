@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tizee-mcp-unix-manual-badge.png)](https://mseep.ai/app/tizee-mcp-unix-manual)
+
 # Unix Manual Server (MCP)
 
 An MCP server that provides Unix command documentation directly within Claude conversations.
